@@ -157,7 +157,14 @@ Every oversight decision begins as a journey — one taken by the countless sign
 
 **Oversight readiness:** The final stage ensures that signals are fully primed for governance and decision-making. By the time they reach this point, they are no longer “raw data” — they are distilled operational intelligence, ready to engage through the Cognitive Gate for human oversight or automated orchestration.
 
-![Figure 2: Signal Odyssey](images/figure-02-signal-odyssey.svg)  
+
+<img 
+  src="https://raw.githubusercontent.com/quantirax-lab/quantirax-whitepapers/refs/heads/main/whitepapers/2025-industry/cof-vision-and-scope/images/figure-01-architectural-blueprint.svg" 
+  alt="The Signal Odyssey" 
+  width="10479" 
+  height="8000" 
+/>
+
 *Figure 2: The Signal Odyssey — tracing the journey of telemetry through semantic filtration, context binding, cognitive reasoning, and temporal integration before reaching the oversight layer.*
 
 ---
