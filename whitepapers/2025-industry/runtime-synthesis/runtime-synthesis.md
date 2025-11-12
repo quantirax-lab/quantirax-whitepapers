@@ -107,8 +107,14 @@ The **Cognitive Gate** and **Observatory Deck** form the framework’s external 
 
 At the highest tier, all clusters—reservoir, inference engines, spillways, gates, and decks—extend into **cross-site deployments**, ensuring continuity even under site-level failure. Synchronization preserves semantic alignment, and deterministic reconciliation guarantees that cognition remains coherent when connectivity is restored.  
 
-![Figure 2 — Runtime Continuum and Multi-Site Deployment](./images/runtime-continuum.svg)  
-*Figure 2 — Runtime Continuum and Multi-Site Deployment of the Cognitive Oversight Framework*
+<img 
+  src="https://raw.githubusercontent.com/quantirax-lab/quantirax-whitepapers/refs/heads/main/whitepapers/2025-industry/runtime-synthesis/images/runtime-continuum.svg" 
+  alt="Runtime Continuum and Multi-Site Deployment of the Cognitive Oversight Framework" 
+  width="10479" 
+  height="8000" 
+/>
+
+
 
 ---
 
