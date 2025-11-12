@@ -76,7 +76,7 @@ The runtime imperative therefore marks the transition from framework as design t
 
 At runtime, the Cognitive Oversight Framework exists as a distributed organism rather than a monolithic service. Its components occupy deliberate, interdependent positions within the operational topology so that telemetry, reasoning, and memory circulate continuously and coherently. Each placement is purposeful: proximity where immediacy matters, separation where neutrality must be maintained, and symmetry where data must travel in both directions.  
 
-![Figure 1 — Runtime Orchestration Blueprint](./images/figure1-runtime-orchestration.svg)  
+![Figure 1 — Runtime Orchestration Blueprint](./images/runtime-orchestrtaion.svg)  
 *Figure 1 — Runtime Orchestration Blueprint: Operational Footprint of the Cognitive Oversight Framework*
 
 O-ESTAs reside at the periphery, co-located with their observed systems. The Concord Reservoir bridges these edge agents with reasoning engines, maintaining bidirectional data and context flow. Oversight Engines and Temporal Spillways operate adjacently, performing inference and timeline synthesis beside shared memory. Cognitive Gates mediate external access, while the Observatory Deck delivers visualization and governance. Together, they form a synchronized cognitive fabric—distributed in placement yet unified in purpose.
@@ -103,7 +103,7 @@ The **Cognitive Gate** and **Observatory Deck** form the framework’s external 
 
 At the highest tier, all clusters—reservoir, inference engines, spillways, gates, and decks—extend into **cross-site deployments**, ensuring continuity even under site-level failure. Synchronization preserves semantic alignment, and deterministic reconciliation guarantees that cognition remains coherent when connectivity is restored.  
 
-![Figure 2 — Runtime Continuum and Multi-Site Deployment](./images/figure2-runtime-continuum.svg)  
+![Figure 2 — Runtime Continuum and Multi-Site Deployment](./images/runtime-continuum.svg)  
 *Figure 2 — Runtime Continuum and Multi-Site Deployment of the Cognitive Oversight Framework*
 
 ---
