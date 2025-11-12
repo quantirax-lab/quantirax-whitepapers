@@ -82,6 +82,8 @@ At runtime, the Cognitive Oversight Framework exists as a distributed organism r
   width="10479" 
   height="8000" 
 />
+*Figure 1 — Runtime Orchestration.
+Component placement and flow: O-ESTAs at the edge feed the Concord Reservoir (structured memory), AI-driven Oversight Engines reason beside memory, Temporal Spillway sequences timelines (with an auxiliary vector database for long-horizon recall), and insights exit via the Cognitive Gate to the Observatory Deck. Environment-agnostic, with bidirectional context flow.*
 
 O-ESTAs reside at the periphery, co-located with their observed systems. The Concord Reservoir bridges these edge agents with reasoning engines, maintaining bidirectional data and context flow. Oversight Engines and Temporal Spillways operate adjacently, performing inference and timeline synthesis beside shared memory. Cognitive Gates mediate external access, while the Observatory Deck delivers visualization and governance. Together, they form a synchronized cognitive fabric—distributed in placement yet unified in purpose.
 
@@ -113,6 +115,10 @@ At the highest tier, all clusters—reservoir, inference engines, spillways, gat
   width="10479" 
   height="8000" 
 />
+
+*Figure 2 — Runtime Continuum.
+Resilience, scalability, and consistency across sites: per-host O-ESTAs; cross-site, multi-node Concord Reservoir; horizontally scalable AI-driven Oversight Engines and Temporal Spillways; replicated auxiliary vector database; and redundant Cognitive Gates and Observatory Decks—delivering deterministic recovery and a single, consistent truth.*
+
 
 
 
