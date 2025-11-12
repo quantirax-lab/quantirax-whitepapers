@@ -77,7 +77,7 @@ The runtime imperative therefore marks the transition from framework as design t
 At runtime, the Cognitive Oversight Framework exists as a distributed organism rather than a monolithic service. Its components occupy deliberate, interdependent positions within the operational topology so that telemetry, reasoning, and memory circulate continuously and coherently. Each placement is purposeful: proximity where immediacy matters, separation where neutrality must be maintained, and symmetry where data must travel in both directions.  
 
 <img 
-  src="https://github.com/quantirax-lab/quantirax-whitepapers/blob/main/whitepapers/2025-industry/runtime-synthesis/images/runtime-orchestrtaion.svg" 
+  src="https://raw.githubusercontent.com/quantirax-lab/quantirax-whitepapers/refs/heads/main/whitepapers/2025-industry/runtime-synthesis/images/runtime-orchestrtaion.svg" 
   alt="Figure 1 — Runtime Orchestration Blueprint: Operational Footprint of the Cognitive Oversight Framework" 
   width="10479" 
   height="8000" 
