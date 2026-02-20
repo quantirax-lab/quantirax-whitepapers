@@ -165,7 +165,7 @@ Every oversight decision begins as a journey — one taken by the countless sign
   height="8000" 
 />
 
-*Figure 2: The Signal Odyssey — tracing the journey of telemetry through semantic filtration, context binding, cognitive reasoning, and temporal integration before reaching the oversight layer.*
+*Figure 2: The Signal Odyssey — the staged transformation of telemetry from semantic enrichment to harmonization, cognitive distillation, temporal integration, and governed exposure.*
 
 ---
 
