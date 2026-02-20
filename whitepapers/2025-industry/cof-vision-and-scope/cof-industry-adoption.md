@@ -107,7 +107,7 @@ The Cognitive Oversight Framework treats oversight as a continuous, adaptive dis
 - **Federated composition**
 - 
 <img 
-  src="https://raw.githubusercontent.com/quantirax-lab/quantirax-whitepapers/refs/heads/main/whitepapers/2025-industry/cof-vision-and-scope/images/figure-01-architectural-blueprint.svg" 
+  src="https://raw.githubusercontent.com/quantirax-lab/quantirax-whitepapers/refs/heads/main/whitepapers/2025-industry/cof-vision-and-scope/images/figure-01-architectural-blueprint.png" 
   alt="Architectural Blueprint" 
   width="10479" 
   height="8000" 
