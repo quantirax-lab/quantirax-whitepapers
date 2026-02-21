@@ -84,13 +84,13 @@ Together, these deficiencies produce a systemic inability to detect, interpret, 
 
 ## Vision & Framework Overview
 
-Modern IT environments span many domains and operate at speeds where performance, security, and resilience must be managed continuously. The Cognitive Oversight Framework positions oversight as a proactive, context-aware discipline that aligns operational monitoring with the declared purpose and behavioral expectations of each component. It is cross-domain and cross-technology by design: the framework does not privilege any language, platform, or vendor, and it treats heterogeneous systems as parts of one operational narrative.
+The Cognitive Oversight Framework establishes oversight as a deliberate architectural capability rather than an emergent byproduct of instrumentation. It defines a model in which system behavior is interpreted relative to declared purpose, preserved context, and accountable reasoning. Oversight is treated not as visibility alone, but as structured judgment embedded within the operational fabric.
 
-At the center of this vision are three guiding principles. **Intent as baseline:** oversight begins with an explicit statement of what must remain true, what may vary, and what is out of bounds. **Memory as a first-class asset:** context is retained and organized so behavior can be understood over time rather than reconstructed under pressure. **Explainable judgment:** decisions are rendered with evidence and rationale — clear, clause-referenced explanations that show why a condition matters, not only what changed. Together, these principles shift oversight from volume and thresholds to evidence-driven judgment.
+Within this vision, heterogeneous systems are not observed in isolation but understood as participants in a shared behavioral narrative. The framework does not depend on any specific platform, language, or vendor; instead, it provides a neutral foundation upon which cross-domain awareness can be constructed and maintained as environments evolve.
 
-In operation, the framework follows a deliberate oversight path without prescribing technologies. Signals are captured with their meaning, consolidated into shared operational memory, evaluated against declared intent by neutral reasoning, sequenced into coherent timelines, and then delivered through a governed interface for people and automated workflows. The proposed architecture draws heavy inspiration from water resource engineering: flows are filtered, context is held in reserve, release is regulated, and channels converge into a broader body of long-horizon memory — so when intervention is needed, the full picture is already at hand.
+Three principles anchor the framework. First, intent governs evaluation: behavioral expectations are explicitly declared and serve as the reference point for interpreting runtime conditions. Second, continuity of context enables understanding: system behavior is examined within its evolving history rather than as isolated events. Third, judgment must be accountable: conclusions are rendered with traceable rationale, ensuring that oversight outcomes remain transparent and defensible.
 
-This is an architectural paradigm, not a tool or dashboard. It embeds alongside existing practices and complements incumbent monitoring by supplying the missing oversight layer. The intent is to provide a single, consistent basis for well-informed action — reducing noise, improving clarity, and ensuring that operational choices are grounded in purpose, context, and explanation.
+This vision reframes operational awareness as a discipline grounded in purpose, continuity, and explainable reasoning. It provides the conceptual foundation upon which the architectural components described in the following sections are organized.
 
 ---
 
@@ -111,7 +111,7 @@ The Cognitive Oversight Framework treats oversight as a continuous, adaptive dis
 - **Memory as policy**  
 - **Selective by intent**  
 - **Federated composition**
-- 
+  
 <img 
   src="https://raw.githubusercontent.com/quantirax-lab/quantirax-whitepapers/refs/heads/main/whitepapers/2025-industry/cof-vision-and-scope/images/figure-01-architectural-blueprint.png" 
   alt="Architectural Blueprint" 
@@ -141,7 +141,7 @@ Every layer of the Cognitive Oversight Framework is purpose-built to counter a s
 
 **Observatory Deck:** A governance surface that presents the same reasoned state as role-aligned, dashboard-style views for operations, security, governance, and leadership. It consolidates insight without fragmenting truth across competing dashboards, giving each audience the perspective it needs while drawing from one consistent source of meaning.
 
-Taken together, these layers are modular yet mutually reinforcing. Signals are captured with intent at the edge, contextualized and remembered in the Reservoir, judged neutrally by the AI-driven Engine, sequenced into timelines by the AI-driven Spillway, governed at the Gate, and presented coherently on the Observatory Deck. In practice, operational actions and environmental changes flow back through the same fabric — recalibrating edge semantics, refining the intent baseline, and adjusting retention — so oversight remains aligned with evolving realities without introducing a separate, physical component.
+These components are modular yet mutually reinforcing, each addressing a structural weakness of the incumbent paradigm. Together, they establish a coherent oversight fabric in which capture, contextualization, reasoning, temporal continuity, governance, and presentation operate as coordinated capabilities rather than disconnected tools.
 
 ---
 
