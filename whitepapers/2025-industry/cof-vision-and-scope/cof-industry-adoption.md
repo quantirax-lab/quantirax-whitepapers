@@ -21,7 +21,6 @@
 - [The Oversight Shift: Rethinking System Awareness](#the-oversight-shift-rethinking-system-awareness)
 - [Closing Summary](#closing-summary)
 - [Appendix A — Background Reading](#appendix-a---background-reading)
-- [Appendix B — Supplementary Figures](#appendix-b---supplementary-figures)
 
 ---
 
@@ -270,15 +269,3 @@ As the complexity of modern systems continues to grow, the organizations that th
 
 ---
 
-## Appendix B - Supplementary Figures
-
-This white paper includes on-page PNG or SVG renderings for layout consistency. Vector originals are provided in the accompanying `/images` directory for detailed inspection or reuse. Filenames mirror the figure numbers in the document.
-
-- **Figure 1 — Architectural blueprint of the Cognitive Oversight Framework.**  
-  Vector source: `images/figure-01-architectural-blueprint.svg`
-- **Figure 2 — Signal Odyssey.**  
-  Vector source: `images/figure-02-signal-odyssey.svg`
-- **Figure 3 — Implementation Roadmap.**  
-  Vector source: `images/ImplementationRoadmap.jpeg`
-
----
