@@ -222,14 +222,15 @@ Upon successful pilot validation, the Cognitive Oversight Framework transitions 
 
 ## Operational Canvas
 
-The operational philosophy of the Cognitive Oversight Framework can be summarized in a single sentence: **oversight must think, remember, and adapt.**  
-This philosophy unfolds through five operational doctrines that define its lifecycle:
+The operational philosophy of the Cognitive Oversight Framework can be expressed succinctly: oversight must think, remember, and adapt.
 
-1. **Deploy-time intent binding:** Oversight begins with intent, not data. Every system component declares its behavioral contract — what outcomes are desired, what deviations are tolerable, and what violations are unacceptable.  
-2. **Edge-based semantic filtration:** On-Edge Semantic Telemetric Agents collect and interpret signals locally, applying semantic compression before forwarding.  
-3. **Centralized contextualization:** The Concord Reservoir maintains structured, queryable operational memory for reasoning and audit.  
-4. **AI-driven operational intelligence:** The Oversight Engine applies layered reasoning over context-rich data to derive insights and judgments, updating baselines dynamically.  
-5. **Governed feedback and adaptation:** Outcomes flow back to refine configurations, align future behavior, and enhance foresight.
+This philosophy manifests through five operational doctrines that define how the framework behaves in practice:
+
+1. **Intent governs interpretation:** Oversight begins with declared behavioral contracts. What must remain true, what may vary, and what constitutes violation are defined explicitly and evaluated continuously.  
+2. **Collection is selective, not indiscriminate:** Telemetry is admitted based on contextual relevance and operational purpose. Routine compliance is compressed; deviations are preserved with supporting evidence.
+3. **Memory is structured and durable:** Operational state is retained in a form that preserves continuity, provenance, and comparability across time.  
+4. **Judgment is explainable and neutral:** Evaluations are clause-referenced, evidence-bound, and reproducible. Decisions are derived from structured reasoning rather than static thresholds.  
+5. **Adaptation is governed, not reactive:** Outcomes refine baselines, configurations, and retention policies within defined trust boundaries, ensuring that oversight evolves without sacrificing stability.
 
 ---
 
