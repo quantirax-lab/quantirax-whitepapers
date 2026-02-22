@@ -141,13 +141,11 @@ Across all environments, communication is encrypted and authenticated, configura
 
 ---
 
-## Proof-of-Concept and Runtime Validation
+## Runtime Verification and Validation
 
-The proof-of-concept phase verifies how the framework behaves as a living runtime system—demonstrating that cognition can persist, scale, and remain consistent across distributed environments. Testing centers on the three runtime principles: resilience, scalability, and consistency.  
+As the Cognitive Oversight Framework transitions from architectural blueprint to operational runtime, its properties must be validated as a distributed cognitive system rather than a conceptual model. Verification will confirm that the framework’s structural design operates coherently across deployment environments, preserving consistency under replication and maintaining a unified operational state across regions. Validation will assess behavioral alignment with declared intent, ensuring that oversight judgments remain explainable and traceable, temporal continuity preserves causality, and governance boundaries consistently expose a single, coherent operational truth.
 
-Each component is exercised under controlled disruption to verify recovery, state continuity, and sustained operation during site-level failure. Scalability is validated through load variation and cluster expansion. The goal is to confirm that the framework resumes from state, maintains coherence, and continues oversight without manual intervention.  
-
-The outcome is operational verification that the Cognitive Oversight Framework can endure, adapt, and recover intelligently across all failure domains—establishing it as a platform ready for live adoption.  
+Resilience and scalability will be evaluated to confirm that the runtime fabric sustains continuity under expansion and infrastructure instability while preserving semantic integrity during recovery and synchronization events. Detailed evaluation methodologies and performance criteria will be defined within the research program, with findings consolidated into technical publications and industry-facing documentation. The objective is to demonstrate that cognitive oversight, once deployed, remains structurally sound, behaviorally aligned, and operationally durable under real-world conditions.
 
 ---
 
