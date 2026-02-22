@@ -202,20 +202,28 @@ These benefits reinforce one another. Reduced noise improves reasoning fidelity.
 
 ## Implementation Roadmap
 
-**Phase I – Concept Formalization and Foundational Research:**  
-This phase establishes the theoretical and architectural foundations of the Cognitive Oversight Framework. The focus lies on defining the semantics of intent-based oversight, the structure of the Concord Reservoir, and the functional specifications for the O-ESTA agents. Supporting deliverables include concept validation papers, architecture drafts, and formal design models describing how each component interacts with the others in runtime.
+The Cognitive Oversight Framework is advanced through a structured, multi-stage program that integrates architectural development, formal verification, and knowledge dissemination. Rather than separating implementation from evaluation, each stage of maturation combines platform realization with empirical validation and published findings. This integrated approach ensures that architectural claims are continuously tested, refined, and documented as the framework evolves.
 
-**Phase II – Prototype Development and Controlled Testing:**  
-The second stage advances from proof-of-concept to a fully functional prototype, integrating all modules into a cohesive framework. Controlled test environments will simulate real-world operational diversity, demonstrating resilience in handling multi-domain telemetry, executing **AI-driven layered reasoning** in the Oversight Engine, and mitigating noise at scale. This stage will validate interoperability across monitoring, security, and governance contexts, ensuring that reasoning processes deliver precise, context-aligned insights in near real time.
+Central to this roadmap is a specification-first development methodology. Core architectural elements — intent definitions, semantic contracts, memory schemas, reasoning interfaces, and temporal integration models — are formally defined before implementation artifacts are generated. These structured specifications serve as executable design anchors from which runtime components are synthesized and validated using AI-assisted development pipelines. This approach preserves architectural coherence while accelerating iteration and reducing implementation drift.
 
-**Phase III – Operational Pilot and Stakeholder Validation:**  
-During this stage, pilot deployments across multiple operational domains will evaluate the framework’s adaptability, scalability, and resilience. The emphasis will be on aligning oversight outputs with business goals, compliance obligations, and service-level expectations. Data from pilot use cases will feed back into refining baseline semantics and improving the adaptive behavior of O-ESTA and the Reservoir.
+The roadmap is organized into four progressive milestones. Each milestone advances a major structural capability of the framework while simultaneously validating its behavior and contributing documented knowledge to the field.
 
-**Phase IV – Full-Scale Deployment and Ecosystem Integration:**  
-Upon successful pilot validation, the Cognitive Oversight Framework transitions to full production. At this point, integrations with existing observability stacks, policy management systems, and orchestration tools will be formalized. Documentation, governance models, and API references will be published, making the framework accessible for broader adoption and third-party extensions.
+**Milestone I — Intent-Governed Signal Foundation:**  
+This stage establishes how declared system intent becomes enforceable runtime behavior. Semantic signal filtration is implemented at the edge, ensuring that telemetry admission is guided by purpose rather than volume. Verification confirms that intent definitions directly influence runtime decisions, and dissemination activities document the methodology of intent-driven oversight.
+
+**Milestone II — Structured Memory and Explainable Decisions:**  
+The second milestone realizes the structured operational memory layer and enables decisions that are explicitly tied to declared expectations. Verification activities demonstrate that operational state can be reconstructed accurately and that decisions remain consistent and traceable. Findings are disseminated through technical publications describing structured memory and explainable oversight mechanisms.
+
+**Milestone III — Temporal Continuity and Drift Awareness:**  
+This milestone introduces behavioral continuity across time by stitching events into coherent timelines. The framework demonstrates its ability to preserve causality and detect gradual change patterns. Verification focuses on validating temporal consistency and drift awareness, while dissemination activities present comparative analyses against reactive monitoring models.
+
+**Milestone IV — Governance, Scalability, and Platform Readiness:**  
+The final milestone transitions the framework from validated architecture to institutional readiness. Oversight outputs are delivered through governed exposure boundaries, and the platform is hardened for cross-domain scalability. Verification confirms architectural integrity under expansion, and dissemination consolidates findings into integration guidance and adoption documentation.
+
+The roadmap reflects a parallel progression in which development, verification, and dissemination occur together at each stage of maturation. This ensures that the Cognitive Oversight Framework evolves as a rigorously tested, specification-governed platform capable of supporting long-term institutional adoption.
 
 ![Implementation Roadmap](images/ImplementationRoadmap.jpeg)  
-*Figure 3: Implementation roadmap depicting the phased progression from ideation to deployment.*
+*Figure 3: Integrated Implementation Roadmap — parallel maturation of the Cognitive Oversight Framework across four milestones, combining platform development, formal verification, and structured dissemination at each stage.*
 
 ---
 
