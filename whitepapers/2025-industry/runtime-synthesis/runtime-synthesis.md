@@ -72,13 +72,14 @@ The runtime imperative therefore marks the transition from framework as design t
 At runtime, the Cognitive Oversight Framework exists as a distributed organism rather than a monolithic service. Its components occupy deliberate, interdependent positions within the operational topology so that telemetry, reasoning, and memory circulate continuously and coherently. Each placement is purposeful: proximity where immediacy matters, separation where neutrality must be maintained, and symmetry where data must travel in both directions.  
 
 <img 
-  src="https://raw.githubusercontent.com/quantirax-lab/quantirax-whitepapers/refs/heads/main/whitepapers/2025-industry/runtime-synthesis/images/runtime-orchestrtaion.svg" 
+  src="https://raw.githubusercontent.com/quantirax-lab/quantirax-whitepapers/refs/heads/main/whitepapers/2025-industry/runtime-synthesis/images/runtime-orchestrtaion.png" 
   alt="Figure 1 — Runtime Orchestration Blueprint: Operational Footprint of the Cognitive Oversight Framework" 
   width="10479" 
   height="8000" 
 />
-*Figure 1 — Runtime Orchestration.
-Component placement and flow: O-ESTAs at the edge feed the Concord Reservoir (structured memory), AI-driven Oversight Engines reason beside memory, Temporal Spillway sequences timelines (with an auxiliary vector database for long-horizon recall), and insights exit via the Cognitive Gate to the Observatory Deck. Environment-agnostic, with bidirectional context flow.*
+
+*Figure 1 — Architectural Overview of the Cognitive Oversight Framework.
+Logical composition of O-ESTAs, Concord Reservoir, Oversight Engine, Temporal Spillway, Cognitive Gate, and Observatory Deck. Runtime Synthesis builds upon this canonical structure to define deployment topology, resilience patterns, and operational continuity.*
 
 The AI-driven Oversight Engines operate as stateless inference services deployed adjacent to Concord Reservoir clusters at each operational site. They do not maintain independent decision state; instead, they reason directly against the shared structured memory plane. This design enables horizontal scaling, rapid failover, and deterministic recovery. In multi-site deployments, inference engines operate locally against synchronized reservoir replicas, ensuring low-latency adjudication while preserving global semantic consistency through memory reconciliation rather than inter-engine coupling.
 
