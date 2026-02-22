@@ -100,7 +100,7 @@ The **Oversight Engine**, an **AI-driven inference agent**, performs semantic re
 
 The **Temporal Spillway**, an **AI-assisted temporal cognition agent**, transforms inference outputs into sequential behavioral narratives. Its replicated channels span multiple sites, ensuring ordered continuity even through local node failure. Periodic exports to a vector database extend memory depth without burdening real-time reasoning.  
 
-The **Vector Database** serves as a supplementary persistence layer, retaining long-term embeddings and cross-site historical context. Though not a core component, it strengthens semantic recall and cross-site continuity for temporal intelligence.  
+The **Vector Database** serves as a supplementary persistence layer, retaining long-term embeddings and cross-site historical context. It enhances semantic recall and extended pattern analysis but does not participate in real-time adjudication within the Oversight Engine. Though not a core component, it strengthens temporal intelligence and cross-site continuity without introducing dependency into the primary reasoning path.
 
 The **Cognitive Gate** and **Observatory Deck** form the framework’s external tier. Both operate redundantly across sites, sharing configuration and policy state to ensure uninterrupted governance and access. Load balancing provides scalability, while synchronization enforces that all consumers—human or system—interact with one consistent truth.  
 
