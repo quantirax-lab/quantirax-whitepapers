@@ -222,7 +222,7 @@ The final milestone transitions the framework from validated architecture to ins
 
 The roadmap reflects a parallel progression in which development, verification, and dissemination occur together at each stage of maturation. This ensures that the Cognitive Oversight Framework evolves as a rigorously tested, specification-governed platform capable of supporting long-term institutional adoption.
 
-![Implementation Roadmap](images/ImplementationRoadmap.jpeg)  
+![Implementation Roadmap](images/ImplementationRoadmap.png)  
 *Figure 3: Integrated Implementation Roadmap — parallel maturation of the Cognitive Oversight Framework across four milestones, combining platform development, formal verification, and structured dissemination at each stage.*
 
 ---
